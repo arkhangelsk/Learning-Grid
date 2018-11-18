@@ -1,2 +1,1 @@
-# CLI:
-https://github.com/arkhangelsk/MyNotes/wiki/Command-Line-Interface
+Checkout WIKI: https://github.com/arkhangelsk/MyNotes/wiki
