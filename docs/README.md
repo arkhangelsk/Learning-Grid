@@ -6,6 +6,12 @@
 
 ***
 
+**Git & Github**
+* [Git How to's](https://github.com/arkhangelsk/STT-Notes/wiki/Git-How-to's)
+* [Git commonly used commands](https://github.com/arkhangelsk/STT-Notes/wiki/Git-Common-Commands)
+
+***
+
 **JavaScript**
 * [JavaScript](https://github.com/arkhangelsk/STT-Notes/wiki/JavaScript)
 
@@ -21,11 +27,6 @@
 
 ***
 
-**Git & Github**
-* [Git How to's](https://github.com/arkhangelsk/STT-Notes/wiki/Git-How-to's)
-* [Git commonly used commands](https://github.com/arkhangelsk/STT-Notes/wiki/Git-Common-Commands)
-
-***
 **REST API**
 * [Free Public RESTful JSON APIs](https://github.com/arkhangelsk/STT-Notes/wiki/Free-Public-RESTful-JSON-APIs)
 * [Making-an-HTTP-Request-or-REST-API-call-in-Node-JS](https://github.com/arkhangelsk/Learning-Grid/wiki/Making-an-HTTP-Request-or-REST-API-call-in-Node-JS)
