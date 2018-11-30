@@ -1,7 +1,5 @@
 
 
-Welcome to the STT Learning Grid
-
 **CLI**
 * [Common CLI commands](https://github.com/arkhangelsk/STT-Notes/wiki/Common-CLI-Commands)
 * [Working with Z Shell (zsh)](https://github.com/arkhangelsk/STT-Notes/wiki/Working-with-Z-Shell-(zsh))
