@@ -1,1 +1,1 @@
-Check out WIKI: https://github.com/arkhangelsk/MyNotes/wiki
+Check out WIKI: https://github.com/arkhangelsk/Learning-Grid/wiki
