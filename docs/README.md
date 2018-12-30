@@ -31,4 +31,6 @@
 * [Free Public RESTful JSON APIs](https://github.com/arkhangelsk/STT-Notes/wiki/Free-Public-RESTful-JSON-APIs)
 * [Making-an-HTTP-Request-or-REST-API-call-in-Node-JS](https://github.com/arkhangelsk/Learning-Grid/wiki/Making-an-HTTP-Request-or-REST-API-call-in-Node-JS)
 
+* [Test](test.md)
+
 Check out WIKI: https://github.com/arkhangelsk/Learning-Grid/wiki
