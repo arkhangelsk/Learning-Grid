@@ -4,7 +4,7 @@ Learning Grid GitHub Pages: https://arkhangelsk.github.io/Learning-Grid/
 
 Tech Journal: https://arkhangelsk.github.io/TechJournal/
 
-Tech Journal Redesined: https://softwaretestingtrends.github.io/tech-journal/blog/
+Tech Journal Redesigned: https://softwaretestingtrends.github.io/tech-journal/blog/
 
 Portfolio: https://arkhangelsk.github.io/AdventuresInLearning/
 
