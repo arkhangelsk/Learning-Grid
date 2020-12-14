@@ -6,6 +6,8 @@ Tech Journal: https://arkhangelsk.github.io/TechJournal/
 
 Tech Journal Redesigned: https://softwaretestingtrends.github.io/tech-journal/blog/
 
+Productivity Journal: https://softwaretestingtrends.github.io/productivity-journal/
+
 Portfolio: https://arkhangelsk.github.io/AdventuresInLearning/
 
 The Recipe Center: https://arkhangelsk.github.io/TheRecipeCenter/
